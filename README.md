@@ -3,11 +3,11 @@
 Climate](https://codeclimate.com/repos/537da4a7e30ba062b101be9c/badges/2aa25d4736f09f40282e/gpa.svg)](https://codeclimate.com/repos/537da4a7e30ba062b101be9c/feed)
 
 [![Build
-Status](https://travis-ci.org/intercom/intercom-php.svg?branch=master)](https://travis-ci.org/intercom/intercom-php)
+Status](https://travis-ci.org/zainengineer/intercom-php.svg?branch=master)](https://travis-ci.org/intercom/intercom-php)
 
 ## Installation
 
-Requires PHP 5.6.
+Requires PHP 5.5.9
 
 Using Composer:
 
